@@ -1,4 +1,7 @@
-# api documentation for  [voxel (v0.5.0)](https://github.com/maxogden/voxel)  [![npm package](https://img.shields.io/npm/v/npmdoc-voxel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-voxel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-voxel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-voxel)
+# npmdoc-voxel
+
+#### basic api documentation for  [voxel (v0.5.0)](https://github.com/maxogden/voxel)  [![npm package](https://img.shields.io/npm/v/npmdoc-voxel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-voxel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-voxel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-voxel)
+
 #### tools to work with voxel generation and chunking in javascript
 
 [![NPM](https://nodei.co/npm/voxel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/voxel)
@@ -61,7 +64,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "0.5.0"
+    "version": "0.5.0",
+    "bin": {}
 }
 ```
 
